@@ -1,0 +1,4 @@
+<meta>
+	<info name="minecraft-chat" author="thealex-br" type="script" version="1.0.0"/>
+	<script src="client.lua" type="client" />
+</meta>
